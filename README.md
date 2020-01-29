@@ -1,2 +1,2 @@
 # chrisdelozier.github.io
-Chris DeLozier's Personal Web Site
+Chris DeLozier's Portfolio Web Site
