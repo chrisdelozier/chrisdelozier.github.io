@@ -1,26 +1,24 @@
-Johnny Coder
+Christopher DeLozier
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+chrisdelozier@gmail.com   (330) 241-2523
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2020 (expected)
+:   **BS, Business IT Management**; Western Governors University
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    - 
+    
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2008-2012
+:   **Associate of Arts**; Kent State University
 
-    *Minor: Awesomeology*
+
+    - 
 
 Experience
 ----------
