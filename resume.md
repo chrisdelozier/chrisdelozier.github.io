@@ -14,6 +14,7 @@
  * Interpersonal Communication
  * Customer Service  
 
+---
 ## Experience
 
 ### **Central Claims Rep Sr** - Progressive Insurance - September 2018 to Present
