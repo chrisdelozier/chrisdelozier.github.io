@@ -1,91 +1,57 @@
-Christopher DeLozier
-============
+# Christopher DeLozier
 
--------------------     ----------------------------
-chrisdelozier@gmail.com   (330) 241-2523
--------------------     ----------------------------
+**Email: <chrisdelozier@gmail.com>**  
+**Phone: (330) 241-2523**
 
-Education
----------
+---
 
-2015-2020 (expected)
-:   **BS, Business IT Management**; Western Governors University
+## Skills
+ * Microsoft Office Suite
+ * Windows, macOS, iOS, Android, and Linux
+ * Hardware troubleshooting, installation, and repair
+ * Software troubleshooting, installation, and repair
+ * Technical Communication
+ * Interpersonal Communication
+ * Customer Service
+---
+## Experience
 
-    - 
-    
+### **Central Claims Rep Sr** - Progressive Insurance - September 2018 to Present
 
-2008-2012
-:   **Associate of Arts**; Kent State University
+* Handled auto claims from start to finish with little to no oversight
+* Completed liability and coverage investigations to verify accuracy of each claim
+* Utilized multitasking skills to manage an average of 50 owned claims
+* Provided excellent customer service to clients throughout the claims process
+* Assisted team members with excess claim loads and escalated client issues
 
+### **Advanced Repair Agent** - Geek Squad/Best Buy - April 2017 to January 2019
 
-    - 
+* Repaired a wide range software and hardware issues to the satisfaction of the client
+* Trained consultation agents in Geek Squad systems, technological problem solving, and client interaction
+* Handled escalated client issues that required advanced problem solving and communication skills
+* Assisted in inventory and operational Geek Squad services to better facilitate interaction with Best Buy as a whole
 
-Experience
-----------
+### **Consultation Agent** - Geek Squad/Best Buy - October 2015 to April 2017
 
-**Your Most Recent Work Experience:**
+* Quickly solved technical issues to satisfaction of clients at time of appointment
+* Provided excellent communication to enhance client's Geek Squad experience
+* Checked in and checked out client equipment for advanced repair
+* Checked functionality of returned products for resale or repair
+* Sold Geek Squad services to clients in a comfortable and professional manner to best meet their needs
+* Handle all Geek Squad operations including shipping and inventory
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+---
 
-* First item
+## Education
+*2015 - 2020*  
+**BS in Information Technology Management**, Western Govenors University  
+  
+*2008 - 2012*  
+**Associate of Arts**, Kent State University
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+---
 
-**That Other Job You Had**
+## Accomplishments and Honors
 
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Diamond Ranked National Forensic League Speech and Debate Coach
+* Four year Top Performer awared at Geek Squad
