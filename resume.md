@@ -1,4 +1,4 @@
-<link href="C:\Users\Chris\projects\Personal Website\chrisdelozier.github.io\splendor.css" rel="stylesheet">
+(setq markdown-css-paths '("splendor.css"))
 
 # Christopher DeLozier
 
