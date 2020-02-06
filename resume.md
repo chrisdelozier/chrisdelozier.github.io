@@ -12,8 +12,8 @@
  * Software troubleshooting, installation, and repair
  * Technical Communication
  * Interpersonal Communication
- * Customer Service
----
+ * Customer Service  
+
 ## Experience
 
 ### **Central Claims Rep Sr** - Progressive Insurance - September 2018 to Present
