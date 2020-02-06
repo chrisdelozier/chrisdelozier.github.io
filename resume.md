@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("splendor.css"))
+
 
 # Christopher DeLozier
 
