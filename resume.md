@@ -2,7 +2,7 @@
 
 # Christopher DeLozier
 
-<chrisdelozier@gmail.com> -- (330) 241-2523 -- 1296 Cranford Ave, Lakewood OH 44107
+<chrisdelozier@gmail.com> &mdash; (330) 241-2523 &mdash; 1296 Cranford Ave, Lakewood OH 44107
 
 ---
 
