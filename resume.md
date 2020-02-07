@@ -46,7 +46,7 @@
 ---
 
 ## Education
-*2015 - 2020* (expected)   
+*2015 - 2020 (expected)*   
 **BS in Information Technology Management**, Western Govenors University  
   
 *2008 - 2011*  
