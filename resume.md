@@ -2,18 +2,18 @@
 
 # Christopher DeLozier
 
-**Email: <chrisdelozier@gmail.com>**  
-**Phone: (330) 241-2523**
+<chrisdelozier@gmail.com> -- (330) 241-2523 -- 1296 Cranford Ave, Lakewood OH 44107
 
 ---
 
 ## Skills
- * Microsoft Office Suite
+
  * Windows, macOS, iOS, Android, and Linux
  * Hardware troubleshooting, installation, and repair
  * Software troubleshooting, installation, and repair
  * Technical Communication
  * Interpersonal Communication
+ * Microsoft Office Suite
  * Customer Service  
 
 ---
