@@ -47,7 +47,7 @@
 
 ## Education
 *2015 - 2020 (expected)*   
-**BS in Information Technology Management**, Western Govenors University  
+**BS in Information Technology Management**, Western Governors University  
   
 *2008 - 2011*  
 **Associate of Arts**, Kent State University
@@ -57,4 +57,13 @@
 ## Accomplishments and Honors
 
 * Diamond Ranked National Forensic League Speech and Debate Coach
-* Four year Top Performer awared at Geek Squad
+* Four year Top Performer award at Geek Squad
+* Employee of the Month or Employee of the Quarter at least annually every year while at Best Buy
+
+## Internal Information
+
+---
+
+* Progressive ID: christopher_p_delozier@progresive.com &mdash; a127336
+* Central Claims Representative Sr &mdash; Start Date: 09/2018
+* Latest PE: Excellent (overall)
