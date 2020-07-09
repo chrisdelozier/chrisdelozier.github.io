@@ -9,6 +9,7 @@
 ## Skills
 
  * Windows, macOS, iOS, Android, and Linux
+ * Office 365 Enterprise administration and support
  * Hardware troubleshooting, installation, and repair
  * Software troubleshooting, installation, and repair
  * Technical Communication
@@ -18,6 +19,16 @@
 
 ---
 ## Experience
+
+### **Systems Administration Consultant** &mdash; VisionAir Solutions (A Cleveland Clinic Company) &mdash; February 2020 to Present
+
+* Coordinated domain swap to align with company name change.
+* Created and migrated full office suite to new Office 365 Tenant for all users and admin.
+* Maintained and repaired IT hardware including end user computers and NAS controllers. 
+* Configured and maintained secure NAS and cloud storage/backup of employee and patient data
+* Created new IT support architecture for small business use.
+* Created and enforced data security routines and policies in accordance with HIPPA guidelines. 
+* Complete as needed IT tasks in accordance with new company setup needs. 
 
 ### **Central Claims Rep Sr** &mdash; Progressive Insurance &mdash; September 2018 to Present
 
@@ -46,7 +57,7 @@
 ---
 
 ## Education
-*2015 - 2020 (expected)*   
+*2015 - 2020*    
 **BS in Information Technology Management**, Western Governors University  
   
 *2008 - 2011*  
