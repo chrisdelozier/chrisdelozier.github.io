@@ -70,13 +70,3 @@
 * Diamond Ranked National Forensic League Speech and Debate Coach
 * Four year Top Performer award at Geek Squad
 * Employee of the Month or Employee of the Quarter at least annually every year while at Best Buy
-
----
-
-## Internal Information
-
-* Christopher_P_Delozier@progressive.com &mdash; a127336
-* Central Claims Representative Sr &mdash; Start Date: 09/2018
-* Supervisor: Kevin Martin
-* Latest PE: Excellent (overall)
-* Currently HBA/WFH
