@@ -38,7 +38,7 @@
 * Provided excellent customer service to clients throughout the claims process
 * Assisted team members with excess claim loads and escalated client issues
 
-### **Advanced Repair Agent** &mdash; Geek Squad/Best Buy &mdash; April 2017 to January 2019
+### **Advanced Repair Agent** &mdash; Geek Squad/Best Buy &mdash; April 2017 to January 2020
 
 * Repaired a wide range software and hardware issues to the satisfaction of the client
 * Trained consultation agents in Geek Squad systems, technological problem solving, and client interaction
