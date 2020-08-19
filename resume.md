@@ -9,11 +9,11 @@
 ## Skills
 
  * Windows, macOS, iOS, Android, and Linux
+ * Windows Server
+ * Active Directory
  * Office 365 Enterprise administration and support
  * Hardware troubleshooting, installation, and repair
  * Software troubleshooting, installation, and repair
- * Technical Communication
- * Interpersonal Communication
  * Microsoft Office Suite
  * Customer Service  
 
