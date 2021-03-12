@@ -8,7 +8,9 @@
 
 ## Skills
 
- * Windows, macOS, iOS, Android, and Linux
+ * Working Knowlege of SQL
+ * Working Knowlege of Python
+ * Accidemic Experience in Data Analytics
  * Windows Server
  * Active Directory
  * Office 365 Enterprise administration and support
