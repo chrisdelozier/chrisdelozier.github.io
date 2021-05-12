@@ -8,16 +8,10 @@
 
 ## Skills
 
- * Working Knowlege of SQL
- * Working Knowlege of Python
- * Accidemic Experience in Data Analytics
- * Windows Server
- * Active Directory
- * Office 365 Enterprise administration and support
- * Hardware troubleshooting, installation, and repair
- * Software troubleshooting, installation, and repair
- * Microsoft Office Suite
- * Customer Service  
+ * Public and persuassive speaking
+ * Coaching rhetoric and research 
+ * Time management and organization
+ * Broad range of tehcnical skills
 
 ---
 ## Experience
@@ -56,6 +50,13 @@
 * Sold Geek Squad services to clients in a comfortable and professional manner to best meet their needs
 * Handled all Geek Squad operations including shipping and inventory
 
+## **Debate Coach**  &mdash; Firestone Highschool &mdash; September 2009 to March 2011
+
+* Coached Lincoln Douglass, Public Forum, and Congressional Debate
+* Educated student in improving research, public speaking, criticial thinking, and rhetorical skills
+* Qualified student competators to both State and National level final tournaments
+* Earned a Premeir Disctinction coaching degree from the National Forensice League (Now National Speech and Debate Association)
+
 ---
 
 ## Education
@@ -67,8 +68,8 @@
 
 ---
 
-## Accomplishments and Honors
+## References
 
-* Diamond Ranked National Forensic League Speech and Debate Coach
-* Four year Top Performer award at Geek Squad
-* Employee of the Month or Employee of the Quarter at least annually every year while at Best Buy
+* Kevin Martin - Supervisor at Progressive Insurance - (440) 665-9405
+* Devon Griffin - Previous coaching supervisor at Highland High School - (330) 239-4305
+* Andrew Schriver - Personal reference, Cuyahoga County Public Defender's Office - (330) 242-0460
