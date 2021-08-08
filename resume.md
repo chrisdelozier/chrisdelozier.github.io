@@ -2,8 +2,6 @@
 
 # Christopher Paul DeLozier
 
-<chrisdelozier@gmail.com> &mdash; (330) 241-2523 &mdash; 16111 Chatfield Ave, Cleveland OH 44111
-
 ---
 
 ## Skills
