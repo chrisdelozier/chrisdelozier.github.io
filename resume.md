@@ -6,10 +6,10 @@
 
 ## Skills
 
- * Public and persuassive speaking
- * Coaching rhetoric and research 
+ * IT System Administration
+ * IT System and Network Security
  * Time management and organization
- * Broad range of tehcnical skills
+ * Public and interpersonal communication 
 
 ---
 ## Experience
@@ -51,9 +51,9 @@
 ## **Debate Coach**  &mdash; Firestone Highschool &mdash; September 2009 to March 2011
 
 * Coached Lincoln Douglass, Public Forum, and Congressional Debate
-* Educated student in improving research, public speaking, criticial thinking, and rhetorical skills
-* Qualified student competators to both State and National level final tournaments
-* Earned a Premeir Disctinction coaching degree from the National Forensice League (Now National Speech and Debate Association)
+* Educated student in improving research, public speaking, critical thinking, and rhetorical skills
+* Qualified student competitors to both State and National level final tournaments
+* Earned a Premier Distinction coaching degree from the National Forensic League (Now National Speech and Debate Association)
 
 ---
 
