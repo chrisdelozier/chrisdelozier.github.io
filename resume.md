@@ -24,7 +24,7 @@
 * Created and enforced data security routines and policies in accordance with HIPPA guidelines. 
 * Complete as needed IT tasks in accordance with new company setup needs. 
 
-### **Central Claims Rep Sr** &mdash; Progressive Insurance &mdash; September 2018 to Present
+### **Central Claims Rep Sr** &mdash; Progressive Insurance &mdash; September 2018 to August 2021
 
 * Handled auto claims from start to finish with little to no oversight
 * Completed liability and coverage investigations to verify accuracy of each claim
