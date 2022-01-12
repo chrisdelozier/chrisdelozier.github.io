@@ -6,7 +6,7 @@
 
 ## Skills
 
- * IT System Administration
+ * Regulatory Adherance and Standards Compliance Expertise
  * IT System and Network Security
  * Time management and organization
  * Public and interpersonal communication 
