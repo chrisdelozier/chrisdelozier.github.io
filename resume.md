@@ -6,10 +6,10 @@
 
 ## Skills
 
- * Regulatory Adherance and Standards Compliance Expertise
+ * IT Hardware and Software Troubleshooting 
  * IT System and Network Security
- * Time management and organization
- * Public and interpersonal communication 
+ * Enterprise System Maintenance and Troubleshooting
+ * Public and Interpersonal Communication 
 
 ---
 ## Experience
