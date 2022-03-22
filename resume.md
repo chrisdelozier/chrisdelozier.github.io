@@ -69,5 +69,4 @@
 ## References
 
 * Kevin Martin - Supervisor at Progressive Insurance - (440) 665-9405
-* Devon Griffin - Previous coaching supervisor at Highland High School - (330) 239-4305
 * Andrew Schriver - Personal reference, Cuyahoga County Public Defender's Office - (330) 242-0460
